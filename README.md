@@ -4,17 +4,17 @@ A photo-sharing platform designed to make wedding albums smarter. Using facial r
 
 ✨ Features
 
-🖼️ Facial Recognition Sorting – Detects individuals in group wedding photos.
+ Facial Recognition Sorting – Detects individuals in group wedding photos.
 
-📲 Automated WhatsApp Delivery – Sends images directly to identified guests.
+ Automated WhatsApp Delivery – Sends images directly to identified guests.
 
-👤 User Profiles & Authentication – Each guest has a secure profile for photo management.
+ User Profiles & Authentication – Each guest has a secure profile for photo management.
 
-⚡ Asynchronous Media Handling – Smooth processing for large photo batches.
+ Asynchronous Media Handling – Smooth processing for large photo batches.
 
-🗄️ Photo Archiving – Organizes albums with MongoDB backend.
+ Photo Archiving – Organizes albums with MongoDB backend.
 
-🛠️ Tech Stack
+ Tech Stack
 
 Backend: Python, Flask
 
@@ -30,7 +30,7 @@ Messaging Integration: WhatsApp API (via Twilio / custom integration)
 
 Clone the repo:
 
-git clone https://github.com/<your-username>/ai-photo-share.git
+git clone https://github.com/<your-username>/ai-based-photosharing.git
 cd ai-photo-share
 
 
